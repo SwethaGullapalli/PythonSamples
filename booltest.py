@@ -1,4 +1,4 @@
-x=5
+x=10
 y=9
 boolVar = bool("0")
 print boolVar
